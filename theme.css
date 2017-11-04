@@ -8,6 +8,7 @@ body {
 	padding 0;
 	width: 60px;
 	background-color: #E2E2E2;
+	font-family: "Arial";
 }
 
 .navbar li {
@@ -38,3 +39,4 @@ h1 {
 
 .text {
 	background-color: #F4F5F8;
+	font-family: "Times";
