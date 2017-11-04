@@ -40,3 +40,6 @@ h1 {
 .text {
 	background-color: #F4F5F8;
 	font-family: "Times";
+	margin: auto;
+	width: 80%;
+}
