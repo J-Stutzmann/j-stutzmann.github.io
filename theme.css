@@ -8,7 +8,7 @@ body {
 	padding 0;
 	background-color: #E2E2E2;
 	font-family: "Arial";
-	overflow: hidden;
+	overflow: visible;
 }
 
 .navbar li {
