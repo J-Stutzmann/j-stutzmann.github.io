@@ -31,14 +31,13 @@ body {
 	background-color: #B5B5B5;
 }
 
-.dropbtn {
+.dropbtn:not(.active) {
 	background-color: #E2E2E2;
 	color: #000000;
 	font-size: 16px;
 	padding: 8px 16px;
 	border: none;
 	cursor: pointer;
-	min-width: 
 }
 
 .dropdown {
