@@ -46,6 +46,7 @@ body {
 
 .content {
 	display: none;
+	text-align: left;
 	position: absolute;
 	background-color: #E2E2E2;
 	min-width: 160px;
