@@ -38,10 +38,19 @@ h1 {
 	color: #404040;
 }
 
+h2 {
+	font-family: "Arial";
+	text-align: left;
+	text-decoration: none;
+	color: #606060;
+	padding: 20px 0 20px 20px;
+}
+
 .text {
 	background-color: #FFFFFF;
 	font-family: "Times";
 	color: #202020;
 	margin: auto;
 	width: 80%;
+	padding: 20px 20px;
 }
