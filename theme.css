@@ -9,6 +9,7 @@ body {
 	width: 60px;
 	background-color: #E2E2E2;
 	font-family: "Arial";
+	overflow: hidden;
 }
 
 .navbar li {
