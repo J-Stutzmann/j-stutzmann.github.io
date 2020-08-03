@@ -1,2 +1,2 @@
 # j-stutzmann.github.io
-Github Pages Site
+Github Pages site, not very well made.
